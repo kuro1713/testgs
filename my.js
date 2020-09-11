@@ -21,6 +21,7 @@ function addGS() {
       });
 }
     
+
     
 document.getElementById("btn2").addEventListener("click",addGS);
 document.getElementById("btn").addEventListener("click",testGS);
